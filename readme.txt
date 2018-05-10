@@ -1,3 +1,2 @@
-App started on port 80;
+SLAVE - edited first line
 SLAVE - edited second line
-SLAVE - edited third line
